@@ -5,3 +5,5 @@ Miniconda3-latest-Linux-x86_64.sh
 main.py
 fer2013.csv
 fer2013.csv.zip
+=2.16.0
+emotion_model.h5
